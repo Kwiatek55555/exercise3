@@ -1,4 +1,4 @@
-var age = 18;
+var age = prompt('Podaj swój wiek');
 
 if (age >= 18) {
     console.log('Dziękujemy! Możesz przeczytać ten artykuł');
